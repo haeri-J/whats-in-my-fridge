@@ -6,7 +6,7 @@
 > 한성대학교 iOS 프로그래밍 프로젝트 · 2171438 조해리
 
 ## 🎬 시연 영상
-👉 [데모 영상 보기](https://github.com/haeri-J/iosproject/releases/tag/V1.0)
+👉 [데모 영상 보기](https://github.com/haeri-J/whats-in-my-fridge/releases/tag/V1.0)
 
 ## 주요 기능
 
